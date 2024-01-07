@@ -1,5 +1,5 @@
 # Fed-Sentiment-and-Interest-Rates
-Using Sentiment Analysis to Understand Future Federal Funds Rate Changes. 
+Using Sentiment Analysis on Fed minutes to Understand Future Federal Funds Rate Changes. 
 
 <p align="center">
   <img src="https://github.com/CSomers3/Fed-Sentiment-and-Interest-Rates/assets/88598207/aa932fd7-1ebc-44d0-9423-7ff030cb4aa6" />
