@@ -26,4 +26,4 @@ future interest rate changes beyond what is explained by traditional macroeconom
 **3. Quant Analysis** - Final cleaning, removing junk text. Performance of basic sentiment analysis using the dictionary method. Finally, estimating an ordered probit model with robustness tests (macroeconomic specifications (i.e Taylor Rule comparisons), Alternative Sentiment Measurements (FinBERT), and Shifts in Textual Sample over Time (ZLB exclusion)). 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSomers3%2FFed-Sentiment-and-Interest-Rates&count_bg=%23000000&title_bg=%23828282&icon=riseup.svg&icon_color=%23000000&title=Views&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSomers3%2FFed-Sentiment-and-Interest-Rates&count_bg=%23000000&title_bg=%23828282&icon=riseup.svg&icon_color=%23000000&title=Views&edge_flat=false)
